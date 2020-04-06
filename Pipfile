@@ -9,6 +9,7 @@ nose = "*"
 
 [packages]
 flask = "*"
+gunicor = "*"
 
 [requires]
 python_version = "3.8"
